@@ -1,0 +1,16 @@
+{
+    "name": "necronru/sky",
+    "authors": [
+        {
+            "name": "Roman Toroshin",
+            "email": "necronru@gmail.com"
+        }
+    ],
+    "autoload": {
+        "src//": "src/"
+    },
+    "require": {
+        "psr/cache": "^1.0",
+        "psr/log": "^1.0"
+    }
+}
